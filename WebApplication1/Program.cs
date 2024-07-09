@@ -13,6 +13,10 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+// this code is done by vinit
+// ok bye
+
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
