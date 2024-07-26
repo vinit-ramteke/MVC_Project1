@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NewMVC\\MVC_Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D69009-4F37-4BBF-B389-F813258FB00B}|WebApplication1\\WebApplication1.csproj|d:\\newmvc\\mvc_project1\\webapplication1\\views\\new\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1D69009-4F37-4BBF-B389-F813258FB00B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\new\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D69009-4F37-4BBF-B389-F813258FB00B}|WebApplication1\\WebApplication1.csproj|d:\\newmvc\\mvc_project1\\webapplication1\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D69009-4F37-4BBF-B389-F813258FB00B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D69009-4F37-4BBF-B389-F813258FB00B}|WebApplication1\\WebApplication1.csproj|d:\\newmvc\\mvc_project1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D69009-4F37-4BBF-B389-F813258FB00B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NewMVC\\MVC_Project1\\WebApplication1\\Views\\New\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\New\\Index.cshtml",
+              "ToolTip": "D:\\NewMVC\\MVC_Project1\\WebApplication1\\Views\\New\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\New\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:26:28.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewController.cs",
+              "DocumentMoniker": "D:\\NewMVC\\MVC_Project1\\WebApplication1\\Controllers\\NewController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\NewController.cs",
+              "ToolTip": "D:\\NewMVC\\MVC_Project1\\WebApplication1\\Controllers\\NewController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\NewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:19:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NewMVC\\MVC_Project1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\NewMVC\\MVC_Project1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:39:22.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
